@@ -1,2 +1,2 @@
-# Dave-and-Busters September Dossier
+# September Dossier
 Company Strategies and Counter Intelligence 
