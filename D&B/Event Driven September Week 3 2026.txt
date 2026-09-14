@@ -1,0 +1,34 @@
+PLAY (Dave & Buster’s) | EVENT-DRIVEN DESK NOTE
+Trading Desk: Tactical / Event-Driven Equity
+Event: Q2 Earnings Release & Conference Call
+Setup: Short Squeeze / Decoupling Arbitrage
+1. The Core Event Setup & Catalyst Dynamics
+The desk is treating PLAY as a binary margin-defense trade. Street consensus has aggressively slashed top-line and EPS expectations ($556.8M Rev / $0.19 EPS), baking in a severe continuation of Q1 traffic headwinds. With short interest elevated and valuation multiples near multi-year troughs, any sign that store-level EBITDA has detached from negative foot traffic will trigger an immediate squeeze.
+* Primary Catalyst: Earnings release (After-Market / Pre-Market) followed by color on SSS comps into August/September.
+* The Decoupling Premise: The tape expects revenue and margins to drop in lockstep. The trade exploits the gap between top-line contraction and bottom-line algorithmic defense.
+2. The "If / Then" Decoupling Playbook
+Scenario A: The Long Squeeze (Upside Decoupling)
+* IF: Revenue meets or misses ($550M–$556M range on -4% to -6% SSS), BUT Operating payroll and benefits drops \le 25.5\% of sales and Cost of amusement holds \le 11.5\% (proving predictive scheduling and RFID surge pricing protected gross profit):
+* THEN: 4-wall EBITDA and EPS beat the low bar ($0.22+). The street is forced to decouple traffic drop from free cash flow generation.
+* Tape Reaction: Fast short-covering rally; gap-and-go above morning pivot.
+* Execution Rule: Buy the initial dip or breakout above opening 5-minute high. Target dynamic resistance bands; trail stops to VWAP.
+Scenario B: The Downside Breakdown (The Trap)
+* IF: SSS drops worse than -6%, AND Operating payroll and benefits expands \ge 26.5\% (proving store-level managers failed to flex labor against traffic slowdowns), while Cost of food and beverage exceeds 27\%:
+* THEN: The decoupling thesis fails completely. Fixed occupancy costs crush flow-through, driving EBITDA below $95M for the quarter and triggering liquidation toward 52-week lows.
+* Tape Reaction: Heavy volume breakdown, failed morning pops, persistent VWAP rejection.
+* Execution Rule: Short intraday bounces into VWAP or play break of key support with tight risk on prior candle highs.
+3. 10-Second Algorithmic Scanner Matrix
+When the 8-K hits the tape, ignore headline GAAP EPS initially. Scan these three operating levers to determine direction within the first 60 seconds:
+| Metric Scanned | Bearish Trigger (Fade / Short) | Neutral / Noise Band | Bullish Decoupling Trigger (Long) |
+|---|---|---|---|
+| Comparable Store Sales (SSS) | < -6.0\% | -5.9\% to -3.5\% | > -3.0\% (or sequential turn) |
+| Operating Payroll % of Sales | > 26.5\% (Labor drag) | 25.6\% - 26.4\% | \le 25.5\% (Algorithmic control) |
+| Amusement Gross Margin | < 83.0\% | 83.1\% - 84.9\% | \ge 85.0\% (Peak RFID harvest) |
+| Adjusted EBITDA Print | $< $95M \vert{} $96M - 103M \vert{}> $105M (Clear operational beat) |  |  |
+4. Tactical Execution Parameters
+* Pre-Market / Post-Market Checklist:
+   * Confirm whether the $19.99 Eat & Play promo compressed F&B gross margin or lifted total check size.
+   * Monitor management commentary on remodel CapEx run-rate ($1.2M–$1.5M prototype confirmation).
+* Intraday Execution Framework:
+   * Volume Profile Confirmation: Do not chase the initial 5-minute print. Wait for the 15-minute opening range breakout (ORB) on relative volume (RVOL) > 2.5x.
+   * Risk Allocation: High slippage environment due to wide spreads on earnings day. Size positions at 50\% normal event risk until post-call guidance confirms second-half comp trajectory.
