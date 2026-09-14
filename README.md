@@ -1,2 +1,2 @@
-# Dossier-September2026-Week-3
+# Dave-and-Busters September Dossier
 Company Strategies and Counter Intelligence 
