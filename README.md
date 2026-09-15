@@ -1,2 +1,3 @@
 # September Dossier
 Dossier Reports for company earning news in September starting in week 3. A fully vetted breakdown from the company announcement as well as counter strategies to take over more market share, slowly pushing the company out of the industry.
+Experiment for Dave and Buster's failed but it was a good failure. The ontology used was different but developed an even better layer of the ontology. Seeing past the fluff because it showed the requirements they would have to execute to pull off their strategies. Trip.com will compile all ontologies into a final report. We're close to uncovering the fabrics of reality, absorbing the energy of brain activity, having a massive advantage for futures to come, knowing the entities better than they know themselves.
